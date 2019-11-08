@@ -15,7 +15,7 @@ const users = [
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/NewBoidLogo.svg',
-    infoLink: 'https://www.facebook.com',
+    infoLink: 'https://www.boid.com',
     pinned: true,
   },
 ];
@@ -23,24 +23,24 @@ const users = [
 const siteConfig = {
   title: 'BOID Docs Site', // Title for your website.
   tagline: 'Documents Site for boid.com',
-  url: 'https://docs.boid.com', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  url: 'https://github.com/boid-com', // Your website URL
+  baseUrl: '/docs.boid.com/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'BOID - Social SuperComputer',
-  organizationName: 'Boid',
+  projectName: 'docs.boid.com',
+  organizationName: 'boid-com',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'links', label: 'Links'},
+    {doc: 'start', label: 'Docs'},
     {doc: 'faq', label: 'FAQ'},
+    {doc: 'links', label: 'Links'},
   //  {blog: false, label: 'Blog'},
   ],
 
@@ -54,8 +54,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#6b3d5b',
-    secondaryColor: '#4a2a3f',
+    primaryColor: '#3da9f4',
+    secondaryColor: '#3da9f4',
   },
 
   /* Custom fonts for website */
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} boid.com`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -97,10 +97,10 @@ const siteConfig = {
   // docsSideNavCollapsible: true,
 
   // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

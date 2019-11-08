@@ -1,10 +1,11 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "How to Start": ["start"],
+    "Installation": ["windows", "linux", "mac"],
+    "Hardware": ["cpu", "gpu"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Hardware": ["cpu", "gpu"],
+    "Installation": ["windows", "linux", "mac"]
   }
 }

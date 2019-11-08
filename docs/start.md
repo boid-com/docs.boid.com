@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: start
+title: Documentation
+sidebar_label: How To Start
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
