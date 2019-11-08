@@ -1,6 +1,7 @@
 ---
 id: faq
 title: Frequently Asked Questions
+sidebar_label: FAQ
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

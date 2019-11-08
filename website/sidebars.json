@@ -1,11 +1,11 @@
 {
   "docs": {
-    "How to Start": ["start"],
-    "Installation": ["windows", "linux", "mac"],
-    "Hardware": ["cpu", "gpu"]
+    "Documentation": ["start","installation","faq"]
   },
   "docs-other": {
+    "Installation": ["windows", "linux", "mac"],
     "Hardware": ["cpu", "gpu"],
-    "Installation": ["windows", "linux", "mac"]
+    "FAQ": ["faq"]
+    
   }
 }

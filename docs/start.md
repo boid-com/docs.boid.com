@@ -1,7 +1,7 @@
 ---
 id: start
 title: Documentation
-sidebar_label: How To Start
+sidebar_label: Start
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
