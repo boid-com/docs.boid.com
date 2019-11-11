@@ -6,7 +6,7 @@
     "Documentation": ["Installation",
       {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac"] },
       {"type": "subcategory", "label": "Hardware", "ids": ["cpu", "gpu"] },
-      {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "transstake", "transfer"] }
+      {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] }
                     ]
   }
 }

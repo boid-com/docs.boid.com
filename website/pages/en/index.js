@@ -26,38 +26,6 @@ class Index extends React.Component {
       </div>
     );
 
-    const Block = props => (
-      <Container
-        padding={['bottom', 'top']}
-        id={props.id}
-        background={props.background}>
-        <GridBlock
-          align="center"
-          contents={props.children}
-          layout={props.layout}
-        />
-      </Container>
-    );
-    
-    const Description = () => (
-      <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-      <Block>
-        {[
-          {
-            content:
-              'Look at these important links below and find out more about the Boid Project.',
-            image: `${baseUrl}img/socialHeader.png`,
-            imageAlign: 'right',
-            title: 'Usefull Stuff',
-          },
-        ]}
-      </Block>
-
-      </div>
-    );
-
     const BoidSites = () => (
       <div
         className="productShowcaseSection paddingBottom"
@@ -88,7 +56,6 @@ class Index extends React.Component {
 
     return (
       <div>
-        <Description />
         <BoidSites />
         <StatisticsSites />
       </div>
