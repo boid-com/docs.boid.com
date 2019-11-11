@@ -2,6 +2,8 @@
 id: stake
 title: Staking, unstaking and delegating Stake
 ---
+**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
+
 ## Staking
 
 If you want to **stake** to yourself on blocks.io go here:
@@ -27,7 +29,8 @@ Remember if you have issues with your **CPU** you can use free **TX** option on 
 
 ## Delegating Stake
 
-If you want to delegate stake to someone else in **to** field where you type your EOS account name - change it to account name of the user you want to have your BOID tokens delegated. Action *stake* is still chosen.
+With action **stake** still chosen. In **to** field where you type your EOS account name - change it to account name of the user you want to have your BOID tokens delegated to.
+Remember about typing **quantity** in right format and **time_limit** in seconds.
 
 
 ## Unstake
