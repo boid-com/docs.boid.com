@@ -3,12 +3,69 @@ id: linux
 title: Linux
 sidebar_label: Linux
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<a href="https://www.boid.com/"><img src="https://raw.githubusercontent.com/Boid-John/eos-airdrops/master/logos/BoidLogo-lg.png" title="Boid" alt="Boid"></a>
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+<p align="center">
+    <a href="https://t.me/Boidcom_official">
+        <img src="https://img.shields.io/discord/431917998102675485.svg" alt="Telegram">
+    </a>
+    <a href="LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
+    </a>
+    <a href="https://twitter.com/boidcom">
+        <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic" alt="Twitter">
+    </a>
+</p>
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+# Boid CLI
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+> A linux command line interface for Boid 
+
+### From a fresh Debian/Ubuntu install:
+```shell
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+
+command -v nvm
+
+nvm install node
+```
+##### This CLI has only been tested on Debian and Ubuntu based distributions.
+
+
+### Setup
+
+> install this package first
+
+```shell
+$ npm install boidcmd -g
+```
+
+##### REQUIRED: you must first install boinc-client package. 
+sudo apt install boinc-client -y
+
+Make sure to check that it is running, this can be done with the command:
+```shell
+$ boinccmd --get_state
+```
+if you get an authentication error code -155 , you will have to blank out the password
+in the file /etc/boinc-client/gui_rpc_auth.cfg ( the file just needs to be empty)
+and restart the boinc-client service.
+
+```shell
+$ service boinc-client restart
+or
+$ systemctl restart boinc-client
+```
+
+> now setup boid by typing the following command:
+
+```shell
+$ boidcmd setup
+```
+
+> additional commands can be found in the help menu
+
+```shell
+$ boidcmd help
+```
