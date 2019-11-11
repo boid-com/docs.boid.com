@@ -37,7 +37,7 @@ class Index extends React.Component {
         <p><Button href="https://github.com/boid-com">Boid Github Account</Button></p>
         <Button href="https://everipedia.org/wiki/lang_en/boid-1">Everipedia Boid Site</Button>
         <p><Button href="https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured">YouTube Channel</Button></p>
-        <Button href="https://t.me/Boidcom_official">Telegram Channel</Button>            
+        <Button href="https://t.me/Boidcom_official">Telegram Channel</Button><a href="https://t.me/Boidcom_official"><img src="https://img.shields.io/discord/431917998102675485.svg" alt="Telegram"></img></a>            
         <p><Button href="https://bloks.io/account/boidcomtoken?loadContract=true&tab=Tables&account=boidcomtoken&scope=boidcomtoken&limit=100">Boid Token Contract Actions</Button></p>
       </div>
     );
