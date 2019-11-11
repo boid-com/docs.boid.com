@@ -4,7 +4,7 @@
     "How to start": ["start", "faq"],
     
     "Documentation": ["Installation",
-      {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac"] },
+      {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac", "validators"] },
       {"type": "subcategory", "label": "Hardware", "ids": ["cpu", "gpu"] },
       {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] }
                     ]
