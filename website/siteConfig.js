@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'BOID Docs Site', // Title for your website.
-  tagline: 'Documents Site for boid.com',
+  title: 'BOID Documents Site', // Title for your website.
+  tagline: 'boid.com',
   url: 'https://github.com/boid-com', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,9 +38,12 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
+    {page: 'index', label: 'Links'},
     {doc: 'start', label: 'Docs'},
     {doc: 'faq', label: 'FAQ'},
-    {doc: 'links', label: 'Links'},
+    {href: "https://community.boid.com", label: 'Community'},
+    {href: "https://app.boid.com/news", label: 'News'},
+    {href: "https://stats.boid.com", label: 'Stats'}
   //  {blog: false, label: 'Blog'},
   ],
 
@@ -94,7 +97,7 @@ const siteConfig = {
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
-  // docsSideNavCollapsible: true,
+  docsSideNavCollapsible: true,
 
   // Show documentation's last contributor's name.
   enableUpdateBy: true,
