@@ -39,7 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {page: 'index', label: 'Links'},
-    {doc: 'start', label: 'Docs'},
+    {doc: 'introduction', label: 'Docs'},
     {doc: 'faq', label: 'FAQ'},
     {href: "https://community.boid.com", label: 'Community'},
     {href: "https://app.boid.com/news", label: 'News'},
