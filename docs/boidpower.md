@@ -82,6 +82,7 @@ measured in days vs boidpower.
 stakes between **[ 100000,10000000 ]** BOID. Account boidpowers were updated regularly of
 the quantity (0.1*initBp*dt/day_length). Graphs are measured in days vs boidpower and
 days vs bonus.
+
 ![Power Example 6](/img/power_examples_6.png "Power Example 6")
 ![Power Example 7](/img/power_examples_7.png "Power Example 7")
 ![Power Example 8](/img/power_examples_8.png "Power Example 8")

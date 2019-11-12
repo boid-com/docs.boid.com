@@ -7,6 +7,9 @@ title: Transfering stake with tokens
 
 ## Transfer stake with tokens
 
+**Terminology:** *Transfer delegation - A stake where tokens change ownership. Designated by the `transtake()`
+action or the `transfer` switch.*
+
 If you want to transfer your existing staked tokens to another account use **transtake** option - on blocks.io go here:
 ```
 https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boidcomtoken&scope=boidcomtoken&limit=100&table=stakes&action=transtake
