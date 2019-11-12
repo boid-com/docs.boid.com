@@ -26,38 +26,109 @@ class Index extends React.Component {
       </div>
     );
 
-    const BoidSites = () => (
+    const Top = () => (
+      
       <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Sites and channels</h2>
-        <Button href="https://www.boid.com/" style='color:red'>Main boid.com</Button>
-        <p><Button href="https://community.boid.com">Community</Button></p>
-        <Button href="https://app.boid.com/">Web App</Button>
-        <p><Button href="https://github.com/boid-com">Boid Github Account</Button></p>
-        <Button href="https://everipedia.org/wiki/lang_en/boid-1">Everipedia Boid Site</Button>
-        <p><Button href="https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured">YouTube Channel</Button></p>
-        <Button href="https://t.me/Boidcom_official">Telegram Channel</Button><a href="https://t.me/Boidcom_official"><img src="https://img.shields.io/discord/431917998102675485.svg" alt="Telegram"></img></a>            
-        <p><Button href="https://bloks.io/account/boidcomtoken?loadContract=true&tab=Tables&account=boidcomtoken&scope=boidcomtoken&limit=100">Boid Token Contract Actions</Button></p>
+        className="boidsitesclass"
+        style={
+          {textAlign: 'center'},
+          {maxWidth: '600px'}
+          }>
+
+        <table>
+                <tr>
+                  <td align='center'>
+                      <img src='img/BOID_Official_QR.png' alt="Boid QR" />
+                      <Button href="https://www.boid.com/" style='color:red'>Main boid.com</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/collaboratorsimg_small.png' alt="Community" />
+                      <Button href="https://community.boid.com">Community</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/socialHeader.png' alt="Web App" />
+                      <Button href="https://app.boid.com/">Web App</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/GitHub-Mark.png' alt="GitHub" />
+                      <Button href="https://github.com/boid-com">Boid Github Account</Button>
+                  </td>                  
+              </tr>
+       </table>
       </div>
     );
 
-    const StatisticsSites = () => (
+    const Middle = () => (
       <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Stats</h2>
-        <Button href="https://stats.boid.com/">Boid Statistics</Button>
-        <p><Button href="https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=boid.com">World Community Grid Stats</Button></p>
-        <Button href="https://bloks.io/tokens/BOID-eos-boidcomtoken">BOID Highest Holders</Button>
-        <p><Button href="https://bloks.io/account/boidworkfund">Work Fund Status</Button></p>
+        className="statsclass"
+        style={
+          {textAlign: 'right'},
+          {maxWidth: '600px'}
+          }>
+        	<table>
+          <td align='center'>
+                      <img src='img/Everipedia_logo.png' alt="Everipedia" />
+                      <Button href="https://everipedia.org/wiki/lang_en/boid-1">Everipedia Boid Site</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/youtube.png' alt="Youtube" />
+                      <Button href="https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g/featured">YouTube Channel</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/Telegram.jpg' alt="Telegram" />
+                      <Button href="https://t.me/Boidcom_official">Telegram Channel</Button>
+                      <a href="https://t.me/Boidcom_official">
+                       <img src="https://img.shields.io/discord/431917998102675485.svg" alt="Telegram">
+                       </img>
+                      </a>
+                  </td>
+                  <td align='center'>
+                      <img src='img/BOID-COIN.png' alt="Boid Token" />
+                      <Button href="https://bloks.io/account/boidcomtoken?loadContract=true&tab=Tables&account=boidcomtoken&scope=boidcomtoken&limit=100">Boid Token Contract Actions</Button>
+                  </td>
+           </table>
+            
+               
+      </div>
+    );
+
+    const Bottom = () => (
+      <div
+        className="statsclass"
+        style={
+          {textAlign: 'right'},
+          {maxWidth: '600px'}
+          }>
+        	<table>
+                <tr>
+                  <td align='center'>
+                      <img src='img/stats.jpg' alt="Boid QR" />
+                      <Button href="https://stats.boid.com/">Boid Statistics</Button>
+                  </td>
+                  <td align='center'>
+                      <img src='img/Boid_Common Cause-WEB.jpg' alt="WCG Stats" />
+                      <Button href="https://www.worldcommunitygrid.org/stat/viewMemberInfo.do?userName=boid.com">World Community Grid Stats</Button>                    
+                  </td>
+                  <td align='center'>
+                      <img src='img/digital-currency-coins.png' alt="Holders" />
+                      <Button href="https://bloks.io/tokens/BOID-eos-boidcomtoken">BOID Highest Holders</Button>
+                  </td>         
+                  <td>
+                      <img src='img/work_fund.png' alt="Work Fund" />
+                      <Button href="https://bloks.io/account/boidworkfund">Work Fund Status</Button>
+                  </td>
+                </tr>
+           </table>
+            
+               
       </div>
     );
 
     return (
-      <div>
-        <BoidSites />
-        <StatisticsSites />
+      <div align= 'center'>
+        <Top/>
+        <Middle/>
+        <Bottom/>
       </div>
     );
   }
