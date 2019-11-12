@@ -1,7 +1,7 @@
 {
   "docs": {
     
-    "How to start": ["introduction", "faq"],
+    "How to start": ["introduction", "mainnet", "faq"],
     
     "Documentation": ["Installation",
       {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac", "validators"] },
