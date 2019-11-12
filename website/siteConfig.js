@@ -42,7 +42,7 @@ const siteConfig = {
     {doc: 'introduction', label: 'Docs'},
     {doc: 'faq', label: 'FAQ'},
     {href: "https://community.boid.com", label: 'Community'},
-    {href: "https://app.boid.com/news", label: 'News'},
+    {href: "https://community.boid.com/news", label: 'News'},
     {href: "https://stats.boid.com", label: 'Stats'}
   //  {blog: false, label: 'Blog'},
   ],
