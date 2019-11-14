@@ -84,7 +84,7 @@ class Index extends React.Component {
                   </td>
                   <td align='center'>
                       <img src='img/BOID-COIN.png' alt="Boid Token" />
-                      <Button href="https://bloks.io/account/boidcomtoken?loadContract=true&tab=Tables&account=boidcomtoken&scope=boidcomtoken&limit=100">Boid Token Contract Actions</Button>
+                      <Button href="https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boidcomtoken">Boid Token Contract Actions</Button>
                   </td>
            </table>
             
