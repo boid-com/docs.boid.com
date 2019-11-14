@@ -6,7 +6,8 @@
     "Next step": ["Installation",
       {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac", "validators"] },
       {"type": "subcategory", "label": "Hardware", "ids": ["cpu", "gpu"] },
-      {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] }
+      {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] },
+      {"type":"subcategory", "label": "Additional Info", "ids":["articles", "exchanges"] }
                  ]
   }
 }

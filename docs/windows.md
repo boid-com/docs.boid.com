@@ -44,7 +44,7 @@ Software used for GPU mining depends from your hardware. Boid App uses trex or w
 
 **T-Rex** [T-Rex on Github](https://github.com/trexminer/T-Rex/releases)
 
-**Wildrig** [Wildrig info on Cryptomining](https://cryptomining-blog.com/tag/wildrig-miner/) [Blog about Wildrig](https://bitcointalk.org/index.php?topic=5023676.820)
+**Wildrig** [Wildrig info on Cryptomining](https://cryptomining-blog.com/tag/wildrig-miner/) and also look here [Blog about Wildrig](https://bitcointalk.org/index.php?topic=5023676.820)
 
 
 ## After Install
