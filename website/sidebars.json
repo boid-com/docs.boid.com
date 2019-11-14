@@ -1,12 +1,12 @@
 {
   "docs": {
     
-    "How to start": ["introduction", "mainnet", "boidpower", "faq"],
+    "How to start": ["introduction", "mainnet", "boidpower", "teams", "eos_account", "proxy", "faq"],
     
-    "Documentation": ["Installation",
+    "Next step": ["Installation",
       {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac", "validators"] },
       {"type": "subcategory", "label": "Hardware", "ids": ["cpu", "gpu"] },
       {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] }
-                    ]
+                 ]
   }
 }
