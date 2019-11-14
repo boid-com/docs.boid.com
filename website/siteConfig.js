@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'BOID Documents Site', // Title for your website.
+  title: 'boid documents site', // Title for your website.
   tagline: 'boid.com',
   url: 'https://github.com/boid-com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -57,8 +57,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#3da9f4',
-    secondaryColor: '#3da9f4',
+    primaryColor: '#027be3',
+    secondaryColor: '#027be3',
   },
 
   /* Custom fonts for website */
@@ -97,7 +97,7 @@ const siteConfig = {
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
-  docsSideNavCollapsible: true,
+  // docsSideNavCollapsible: true,
 
   // Show documentation's last contributor's name.
   enableUpdateBy: true,
