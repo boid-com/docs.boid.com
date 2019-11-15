@@ -1,6 +1,6 @@
 ---
 id: mac
-title: MAC
-sidebar_label: MAC
+title: Mac
+sidebar_label: Mac
 ---
 ![Under construction](/img/underconstruction.png "Under Construction")

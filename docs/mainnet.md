@@ -1,8 +1,10 @@
 ---
 id: mainnet
-title: Mainnet Mechanics
-sidebar_label: Mainnet Mechanics
+title: Mainnet mechanics
+sidebar_label: Mainnet mechanics
 ---
+![Mainnet](/img/mainnet.jpeg "Mainnet")
+
 # Important Terms
 
 ### Boidnet

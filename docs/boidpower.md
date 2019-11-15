@@ -1,7 +1,7 @@
 ---
 id: boidpower
-title: Boid Power Mechanics
-sidebar_label: Boid Power Mechanics
+title: Boid power mechanics
+sidebar_label: Boid power mechanics
 ---
 # Bonus parameters
 

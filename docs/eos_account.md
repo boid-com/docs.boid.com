@@ -1,7 +1,7 @@
 ---
 id: eos_account
-title: EOS Account
-sidebar_label: EOS Account
+title: EOS account
+sidebar_label: EOS account
 ---
 You need to link your EOS account to Boid to be able to stake BOID tokens.
 

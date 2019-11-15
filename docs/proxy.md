@@ -1,7 +1,7 @@
 ---
 id: proxy
-title: PROXY
-sidebar_label: PROXY
+title: proxy
+sidebar_label: proxy
 ---
 Top of the menu in https://app.boid.com/ there is a [Vote](https://app.boid.com/vote) option. You can vote for boid proxy there.
 

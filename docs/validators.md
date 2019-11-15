@@ -1,7 +1,7 @@
 ---
 id: validators
-title: Validators Setup
-sidebar_label: Validators Setup
+title: Validators setup
+sidebar_label: Validators setup
 ---
 # boidValidator
 This is the backend code that Boid Validator nodes can run to reach consensus on Boid Power contributions. During the alpha the Validators are only responsible for retrieving parsing and reporting Boid Power ratings for Boid Devices on the Boid Network. Over time the responsibilities of Boid Validator nodes will expand to include other responsibilities.
