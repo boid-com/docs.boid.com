@@ -16,11 +16,15 @@ sidebar_label: Media
 [Get Started — Boid Staking & More](https://medium.com/@cybercodetwins/get-started-boid-staking-more-1bf21c9d997f)
 
 ### Trybe
+[Boid.com on Trybe](https://trybe.one/user/903)
+
 [boid power on trybe](https://trybe.one/boid-power)
 
 [Boid Is Improving the EOS Account Creation Process](https://trybe.one/boid-is-improving-the-eos-account-creation-process)
 
 [BOID – The Social Supercomputer Based on EOS Blockchain Technology](https://trybe.one/boid-the-social-supercomputer-based-on-eos-blockchain-technology/)
+
+[Dave B on Trybe](https://trybe.one/user/20943)
 
 ### decentium
 [Boid is improving the EOS account creation process](https://decentium.org/johnatboid11/boid-is-impr4)
