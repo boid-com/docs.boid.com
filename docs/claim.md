@@ -2,7 +2,7 @@
 id: claim
 title: Claim BOID tokens
 ---
-**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
+>**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
 ## Claim
 

@@ -3,7 +3,7 @@ id: eos_account
 title: EOS account
 sidebar_label: EOS account
 ---
-You need to link your EOS account to Boid to be able to stake BOID tokens.
+>You need to link your EOS account to Boid to be able to stake BOID tokens.
 
 If you already have an EOS account - Great! Just link it to your Boid account on the app.boid.com site. When everything is setup you should be able to claim your BOID tokens straight to your EOS account or have stake delegated to you.
 

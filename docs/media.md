@@ -5,7 +5,7 @@ sidebar_label: Media
 ---
 ## Articles
 ### Medium Articles
-[Main BOID](https://medium.com/@boidcom)
+>[Main BOID](https://medium.com/@boidcom)
 
 [Boid Season 2 Launch on Medium](https://medium.com/@boidcom/boid-season-2-launch-640a8b24ded)
 
@@ -16,7 +16,7 @@ sidebar_label: Media
 [Get Started — Boid Staking & More](https://medium.com/@cybercodetwins/get-started-boid-staking-more-1bf21c9d997f)
 
 ### Trybe
-[Boid.com on Trybe](https://trybe.one/user/903)
+>[Boid.com on Trybe](https://trybe.one/user/903)
 
 [boid power on trybe](https://trybe.one/boid-power)
 
@@ -64,7 +64,7 @@ sidebar_label: Media
 [Interview: Get Ready for Token Leasing with Chintai](https://www.eoswriter.io/96154_interview-get-ready-for-token-leasing-with-chintai.eos)
 
 ## Videos and Podcasts
-[Main Boid Channel on Youtube](https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g_)
+>[Main Boid Channel on Youtube](https://www.youtube.com/channel/UCL4I3DksM41qPKih2PbiQ7g_)
 
 [Exploring EOS EP24 - The Social Supercomputer with John Heeter from BOID](https://www.youtube.com/watch?v=Lq_lTXX03NE&feature=emb_title)
 

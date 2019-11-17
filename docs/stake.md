@@ -2,7 +2,7 @@
 id: stake
 title: Staking, unstaking and delegating stake
 ---
-**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
+>**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
 # Staking overview
 - Staking is happening on-chain
