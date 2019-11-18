@@ -16,10 +16,10 @@ sidebar_label: Timeline
 ## 2019
 > - ![Done](/img/done.png "Done")Q1 - Boid on EOS Testnet - Boid backend functions begin migration to smart contracts.  
 > - ![Done](/img/done.png "Done")Q2 - Boid Protocol expansion - More Blockchain computing protocols will be implemented into the Boid application.  
-- Q3 - Boid Swarm service - Boid Swarm is "distributed computing as a service" powered by the Boid network.  
-- Q4 - Boid Dapp on EOS Mainnet - The Boid network will function as a decentralized application on EOS with robust tokenization implemented.  
+- Q3 - Boid Dapp on EOS Mainnet - The Boid network will function as a decentralized application on EOS with robust tokenization implemented.  
+- Q4 - Boid DAC launched - The Boid Decentralized Autonomous Community gives tokenholders the ability to control the direction of the platform.  
 ## 2020
-- Q1 - Boid DAC launched - The Boid Decentralized Autonomous Community gives tokenholders the ability to control the direction of the platform.  
+- Q1 - Boid Swarm service - Boid Swarm is "distributed computing as a service" powered by the Boid network.
 - Q2 - Boid Network launch - Initial testing for the operation of Boid as a standalone network.  
 - Q3 - Boid Protocol expansion - More Blockchain computing protocols will be implemented into the Boid application  
 - Q4 - Boid Network official launch - Boid will function as an autonomous network.  
