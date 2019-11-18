@@ -15,7 +15,7 @@ sidebar_label: Timeline
 > - ![Done](/img/done.png "Done")Q4 - Alpha tokenization - Alpha with improved compatibility, profitibality, and tokenization.  
 ## 2019
 > - ![Done](/img/done.png "Done")Q1 - Boid on EOS Testnet - Boid backend functions begin migration to smart contracts.  
-- Q2 - Boid Protocol expansion - More Blockchain computing protocols will be implemented into the Boid application.  
+> - ![Done](/img/done.png "Done")Q2 - Boid Protocol expansion - More Blockchain computing protocols will be implemented into the Boid application.  
 - Q3 - Boid Swarm service - Boid Swarm is "distributed computing as a service" powered by the Boid network.  
 - Q4 - Boid Dapp on EOS Mainnet - The Boid network will function as a decentralized application on EOS with robust tokenization implemented.  
 ## 2020
