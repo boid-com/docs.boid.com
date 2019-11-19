@@ -29,7 +29,7 @@ You can use your CPU or GPU or both. But understand that it will take some time 
 
 Your Windows working Folder is located in your User Directory on **C** Drive
 
-Example: ```C:\Users\YourUser\.Boid```
+Example: ``` C:\Users\YourUser\.Boid ```
 
 Inside there should be two folders one called **BOINC** and the other **GPU**
 
@@ -53,7 +53,10 @@ Ok so you managed to install your Boid Desktop App and you are ready to get BOID
 
 Look on the app look and functionality.
 
-On the top we can see the name of the application and the version number. Make sure that you are on the latest version of the software by looking here: ```https://github.com/Boid-com/BoidDesktop```
+On the top we can see the name of the application and the version number. Make sure that you are on the latest version of the software by looking here: 
+```
+https://github.com/Boid-com/BoidDesktop
+```
 
 There is a home icon on the top blue part that leads you to the web portal on ```https://app.boid.com```
 
