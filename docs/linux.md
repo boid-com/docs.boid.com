@@ -11,9 +11,11 @@ sidebar_label: Linux
 ### From a fresh Debian/Ubuntu install:
 ```shell
 wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
-
+```
+```
 command -v nvm
-
+```
+```
 nvm install node
 ```
 ##### This CLI has only been tested on Debian and Ubuntu based distributions.
@@ -40,7 +42,9 @@ and restart the boinc-client service.
 
 ```shell
 $ service boinc-client restart
+```
 or
+```
 $ systemctl restart boinc-client
 ```
 

@@ -18,15 +18,25 @@ This software can run on any OS that supports Docker and Nodejs. Currently it ha
 [Nodejs](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)
 ```
 sudo apt update -y
+```
+```
 curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+```
+```
 sudo bash nodesource_setup.sh
+```
+```
 sudo apt install nodejs build-essential -y
 ```
 [Docker](https://docs.docker.com/install/) &
 [Compose](https://docs.docker.com/compose/install/)
 ```
 sudo wget -qO- https://get.docker.com/ | sh
+```
+```
 sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
+```
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
@@ -45,6 +55,8 @@ sudo npm i -g prisma pm2
 Clone this repository and enter the directory
 ```
 git clone https://github.com/Boid-John/boidValidator.git
+```
+```
 cd boidValidator
 ```
 Install NPM dependencies
@@ -66,6 +78,8 @@ prisma deploy
 Prepare the .env.json and ecosystem.config.js files.
 ```
 cp ./util/example.ecosystem.config.js ./ecosystem.config.js
+```
+```
 cp ./util/example.env.json .env.json
 ```
 Modify the .env.json file using any text editor. The changes you want to make are:
@@ -84,6 +98,8 @@ pm2 logs
 Save the task so it will automatically start on a reboot
 ```
 pm2 save
+```
+```
 sudo pm2 startup
 ```
 
