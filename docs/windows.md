@@ -14,7 +14,7 @@ Press **Download for Windows**
 It will download latest Boid Desktop Application at the moment **Boid-0.0.6.Setup.exe**
 This is a 64bit package so remember that only 64bit Windows OS supports it.
 
-Sometimes Antyvirus Software may block the installation so best is to pause it for the time of the installation and when finished add exception to the antyvirus and un-pause it.
+Sometimes Antivirus Software may block the installation so best is to pause it for the time of the installation and when finished add exception to the antivirus and un-pause it.
 
 It should create a Boid App Shortcut on your Desktop.
 
@@ -36,7 +36,7 @@ Inside there should be two folders one called **BOINC** and the other **GPU**
 **BOINC** is where data regarding your CPU is located
 **GPU** and as you already figured it out is data for your GPU
 
-That's why it would be a good idea to add your **.Boid** folder to exclusions in your Antyvirus Software
+That's why it would be a good idea to add your **".Boid"** folder to exclusions in your Antivirus Software
 
 ## GPU software used
 
@@ -60,7 +60,7 @@ https://github.com/Boid-com/BoidDesktop
 
 There is a home icon on the top blue part that leads you to the web portal on ```https://app.boid.com```
 
-Next to it you should be able to see your user name and a possibility to Logout from existing session and login as a different user. In addition, “My Profile” option that leads you to your user status page on ```https://app.boid.com```
+Next to it you should be able to see your username and a possibility to Logout from existing session and login as a different user. In addition, “My Profile” option that leads you to your user status page on ```https://app.boid.com```
 
 Below that we have your editable device name.
 

@@ -68,7 +68,7 @@ off by this amount every day.
 ![Power Equation](/img/power_bonus.png "Power Equation")
 
 # Boidpower Examples
-10 test accounts were set up with intial boidpowers between [1000, 100000]. Account
+10 test accounts were set up with initial boidpowers between [1000, 100000]. Account
 boidpowers were updated regularly of the quantity (0.1*initBp*dt/day_length). Graph is
 measured in days vs boidpower.
 ![Power Example 1](/img/power_examples_1.png "Power Example 1")
@@ -78,7 +78,7 @@ measured in days vs boidpower.
 ![Power Example 5](/img/power_examples_5.png "Power Example 5")
 
 ## Bonus Examples
-10 test accounts were set up with intial boidpowers between **[ 1000, 1000000 ]** and initial
+10 test accounts were set up with initial boidpowers between **[ 1000, 1000000 ]** and initial
 stakes between **[ 100000,10000000 ]** BOID. Account boidpowers were updated regularly of
 the quantity (0.1*initBp*dt/day_length). Graphs are measured in days vs boidpower and
 days vs bonus.

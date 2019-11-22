@@ -16,9 +16,9 @@ In **Power** field when you go to the calculator it should show your existing Bo
 **Worker Fund (Worker Proposal Fund or WPF)** provides funding for users that help grow and promote the Boid ecosystem. So it's not a bad idea to overstake a little bit to add some BOID to the fund.
 Look how much we have in the fund now: https://stats.boid.com/d/YrQi9xhZk/boidcomtoken-blockchain-tracking?orgId=1&theme=light&panelId=19&fullscreen
 
-Switch betweet **DAY, WEEK, MONTH** to see how much you can earn.
+Switch between **DAY, WEEK, MONTH** to see how much you can earn.
 
 > There is a connection between how much power you have and how much active stake you have. It's good to analyse your possibilities.
->> Remember that Chintai is a very usefull exchange to to use to maximize your earnings! https://chintai.io
+>> Remember that Chintai is a very useful exchange to use to maximize your earnings! https://chintai.io
 ### Where is the calculator?
 Here: https://app.boid.com/staking

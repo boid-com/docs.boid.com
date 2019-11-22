@@ -1,6 +1,6 @@
 ---
 id: transstake
-title: Transfering stake with tokens
+title: Transferring stake with tokens
 ---
 >**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
@@ -19,10 +19,10 @@ https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boid
 
 In **from** type you EOS account name
 
-In **to** type EOS account name that you want your staked tokens transfered.
+In **to** type EOS account name that you want your staked tokens transferred.
 
 **IMPORTANT** - transtake is made to transfer already staked tokens.
 
 If you try to transfer tokens that are not staked it may create some unforseen result. 
 
-**REMEMBER** - You are transfering your staked tokens to another account. This is **NOT** a staking action!!!
+**REMEMBER** - You are transferring your staked tokens to another account. This is **NOT** a staking action!!!

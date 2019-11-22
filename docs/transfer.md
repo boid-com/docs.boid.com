@@ -1,6 +1,6 @@
 ---
 id: transfer
-title: Transfering BOID to another account
+title: Transferring BOID to another account
 ---
 >**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
