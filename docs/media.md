@@ -75,3 +75,5 @@ sidebar_label: Media
 [Boidcast Episode 1](https://anchor.fm/boidcast/episodes/Boidcast-Episode-1-e7mfg1)
 
 [Computing for Science with #Boid --- Interviews with John Heeter #EOS](https://www.youtube.com/watch?v=rXgteNkhaMY)
+
+[Boid Swarm DappHackathon 2019](https://www.youtube.com/watch?v=rzSZXL3O5dI)
