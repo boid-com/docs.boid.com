@@ -22,3 +22,12 @@ Switch between **DAY, WEEK, MONTH** to see how much you can earn.
 >> Remember that Chintai is a very useful exchange to use to maximize your earnings! https://chintai.io
 ### Where is the calculator?
 Here: https://app.boid.com/staking
+
+## How to find your device id?
+
+Go to the main page of https://app.boid.com/  
+On the right hand side in **"My Devices"** window look at the list of your devices and click on the **"i"** icon next to it
+![id](/img/faq1.png "id")
+
+A new window should appear and this is where you should be able to find it. This is just an example. Every device **id** is different.
+![id](/img/faq2.png "id")
