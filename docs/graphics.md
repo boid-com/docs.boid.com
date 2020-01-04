@@ -16,6 +16,7 @@ sidebar_label: Graphics material
 ![Palette Light Grey](/img/graphics/palette2.png "Palette Light Grey")
 
 ## Boid files
+Boid app.boid.com QR code 342x342pix
 ![QR](/img/graphics/BOID_Official_QR.png "QR")
 
 Download big resolution file:
