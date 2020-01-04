@@ -15,6 +15,12 @@ sidebar_label: Graphics material
 ```
 ![Palette Light Grey](/img/graphics/palette2.png "Palette Light Grey")
 
+## Font Used
+Main font used in Boid is called **Comfortaa**. If you don't have it, you can download it for free from google fonts.
+```
+https://fonts.google.com/specimen/Comfortaa
+```
+
 ## Boid files
 Boid app.boid.com QR code 342x342pix
 ![QR](/img/graphics/BOID_Official_QR.png "QR")
