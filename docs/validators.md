@@ -54,7 +54,7 @@ sudo npm i -g prisma pm2
 
 Clone this repository and enter the directory
 ```
-git clone https://github.com/Boid-John/boidValidator.git
+git clone https://github.com/boid-com/boidValidator.git
 ```
 ```
 cd boidValidator
@@ -83,10 +83,59 @@ cp ./util/example.ecosystem.config.js ./ecosystem.config.js
 cp ./util/example.env.json .env.json
 ```
 Modify the .env.json file using any text editor. The changes you want to make are:
-- Provide your validator EOS account name, key, and permission name. Do not use your active or owner permission. Register a special permission on the EOS account that will be uses for validation. Follow these [instructions](https://docs.google.com/document/d/1FQTHG-oEiWirHrzuTf8BRf2OJPdLCrVbVDmfB8YQwiU/edit).
+- Provide your validator EOS account name, key, and permission name. Do not use your active or owner permission. Register a special permission on the EOS account that will be used for validation.
 - Enter the wcg api key: will be provided in the private telegram group
 
+## EOS key registration
 
+Take a look how to setup EOS account with the required key permissions to run a Boid node validator.
+
+Look at the following example:
+
+![Key View](/img/key1.png "Key View")
+
+I recommend making a new dedicated EOS account for the Boid node validator as you are going to want to claim rewards and keep it separate from your personal wallet for security reasons.
+>NOTE: Do NOT use free wombat for this as they will not give you the private keys for free.
+
+Then you need to generate 3 key pairs, an **Owner**, **Active** and **special key** for the node validator.
+I recommend using https://bloks.io/wallet/permissions/advanced to set the rights, but you can also use eostoolkit.io if you prefer.
+
+>Make sure the Owner and Active keys are different.
+
+![Key View](/img/key2.png "Key View")
+
+Now let us proceed with associating a 3rd key with the active key.
+
+Press add new Permission but don’t save yet
+![Key View](/img/key3.png "Key View")
+
+Then click on it ( on Permission #3 )
+
+Set the permission name to **“update_power”**
+
+Change the Parent from owner to active
+
+Press Add key and fill in the Public key of your 3rd key pair.
+
+And press save permission.
+![Key View](/img/key4.png "Key View")
+
+Now Lets link the special key to **boidcompower** contract
+
+Type in Permissions **“update_power”**
+
+Type in contract name **“boidcompower”**
+
+Type in contract action **“updaterating”**
+
+Then press **“Link Auth”** button
+![Key View](/img/key5.png "Key View")
+
+Congratulation you now have the required keys to produce power reports, you need to provide the EOS  account name / EOS public key for **update_power** permission to **john@boid.com** so he can register you on chain.
+
+Follow the same procedure to add a 4th key pair to claim rewards, associate it with the **claimreward** contract action ( TODO verify steps )
+
+## pm
 Setup pm2 to run the cron tasks continuously.
 ```
 pm2 start
@@ -111,9 +160,7 @@ PM2 will now daemonize the tasks and run it in the background. When the task cra
 This Json is an array of groups. The jobs are in the /cron/jobs folder. Jobs in a group are run sequentially, but you can run multiple groups in parallel to customize and optimize your validator node jobs.
 
 
-
 ### Performance tweaks
-
 
 **postgres DB improvements:**
 
@@ -121,7 +168,6 @@ Setup indexes to improve query speed.
 ```
 node ./util/setupDbOptimizations.js
 ```
-
 
 ### Utility functions
 
