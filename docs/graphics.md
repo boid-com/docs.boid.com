@@ -47,5 +47,5 @@ https://docs.boid.com/img/graphics/boid_bird_shape.csh
 
 Download Boid power SVG file:
 ```
-https://docs.boid.com/img/graphics/boid_bird_shape.csh
+https://docs.boid.com/img/graphics/BoidPower.svg
 ```
