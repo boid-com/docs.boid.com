@@ -1,13 +1,11 @@
 {
-  "docs": {
-    
+  "docs": {    
     "How to start": ["introduction", "mainnet", "boidpower", "teams", "eos_account", "proxy", "faq"],
-    
     "Next step": ["Installation",
       {"type": "subcategory", "label": "Installation", "ids": ["windows", "linux", "mac", "validators"] },
       {"type": "subcategory", "label": "Hardware", "ids": ["cpu", "gpu"] },
       {"type":"subcategory", "label": "EOS Contracts", "ids":["stake", "claim", "transstake", "transfer"] },
-      {"type":"subcategory", "label": "Additional Info", "ids":["media", "exchanges", "partnership", "timeline"] }
-                 ]
+      {"type":"subcategory", "label": "Additional Info", "ids":["media", "exchanges", "partnership", "timeline", "graphics"] }
+   ]
   }
 }
