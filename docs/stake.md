@@ -1,6 +1,6 @@
 ---
 id: stake
-title: Stake, unstake, delegate stake
+title: Stake, unstake, delegate
 ---
 >**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
