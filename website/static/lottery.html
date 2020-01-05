@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Boid Lottery 2020</h2>
+
+<p>First place number:</p>
+<p id="boidlottery1"></p>
+
+<p>Second place number:</p>
+<p id="boidlottery2"></p>
+
+<p>Third place number:</p>
+<p id="boidlottery3"></p>
+<script>
+document.getElementById("boidlottery1").innerHTML =
+Math.floor(Math.random() * 100) + 1;
+</script>
+<script>
+document.getElementById("boidlottery2").innerHTML =
+Math.floor(Math.random() * 100) + 1;
+</script>
+<script>
+document.getElementById("boidlottery3").innerHTML =
+Math.floor(Math.random() * 100) + 1;
+</script>
+</body>
+</html>
