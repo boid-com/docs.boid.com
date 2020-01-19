@@ -13,6 +13,8 @@ sidebar_label: Exchanges
 
 >[dexeos](https://dexeos.io/trade/?market=eos&code=boidcomtoken&symbol=BOID)
 
+>[Chintai - borrow and lease](https://exchange.chintai.io/)
+
 >https://www.coingecko.com/en/coins/boid/eos
 
 >https://neironix.io/cryptocurrency/boid/exchanges
