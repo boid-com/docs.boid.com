@@ -21,7 +21,7 @@ In **from** type you EOS account name
 
 In **to** type EOS account name that you want your staked tokens transferred.
 
-**IMPORTANT** - transtake is made to transfer already staked tokens.
+**IMPORTANT** - you can only use transtake action with unstaked tokens.
 
 If you try to transfer tokens that are not staked it may create some unforseen result. 
 
