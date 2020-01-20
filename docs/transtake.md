@@ -1,15 +1,15 @@
 ---
 id: transstake
-title: Transfer tokens and stake
+title: Trans-stake
 ---
 >**All Contract Actions can be used on different portals and wallets. This is just an example on bloks.io**
 
-## Transfer stake with tokens
+## Transfer tokens and stake them
 
 **Terminology:** *Transfer delegation - A stake where tokens change ownership. Designated by the `transtake()`
 action or the `transfer` switch.*
 
-If you want to transfer your existing staked tokens to another account use **transtake** option - on blocks.io go here:
+If you want to transfer your tokens to another account and stake them on a timer use **transtake** option - on blocks.io go here:
 ```
 https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boidcomtoken&scope=boidcomtoken&limit=100&table=stakes&action=transtake
 ```
@@ -17,13 +17,16 @@ https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boid
 
 **transtake** contract action needs to be chosen
 
-In **from** type you EOS account name
+**from** type you EOS account name
 
-In **to** type EOS account name that you want your staked tokens transferred.
+**to** type EOS account name that you want your staked tokens transferred.
+
+**quantity** type amount you want to transtake in format: x.xxxx BOID
+
+**time_limit** is counted in **seconds(!)** and when you type **0** it will mean unlimited time until you use unstake option.
+If you make a mistake with the number of seconds you may even lock your BOID tokens for 100 years!!! So don't make a mistake!!!
 
 >**IMPORTANT** - you can only use transtake action with unstaked tokens.
-
-If you try to transfer tokens that are not staked it may create some unforseen result. 
 
 **REMEMBER** - You are transferring your staked tokens to another account. This is **NOT** a staking action!!!
 
