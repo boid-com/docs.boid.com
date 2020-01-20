@@ -23,8 +23,8 @@ https://bloks.io/account/boidcomtoken?loadContract=true&tab=Actions&account=boid
 
 **quantity** type amount you want to transtake in format: x.xxxx BOID
 
-**time_limit** is counted in **seconds(!)** and when you type **0** it will mean unlimited time until you use unstake option.
-If you make a mistake with the number of seconds you may even lock your BOID tokens for 100 years!!! So don't make a mistake!!!
+**time_limit** is counted in **seconds(!)** and when you type **0** it will mean unlimited time until account that you transfer tokens to uses unstake option.
+If you make a mistake with the number of seconds you may even lock BOID tokens for 100 years!!! So don't make a mistake!!!
 
 >**IMPORTANT** - you can only use transtake action with unstaked tokens.
 
