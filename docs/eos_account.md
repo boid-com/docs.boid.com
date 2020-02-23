@@ -19,4 +19,5 @@ EOS Name Service allows you to purchase custom and premium EOS account names usi
 #### Use pending BOID Balance
 If you don't have an account already connected to app.boid.com eventually you should be able to gather right amount of BOID tokens to create an EOS account.
 
+## Create Your EOS account from here:
 <iframe width="100%" height="400" src="https://eosnameservice.io/?ref=boidaccounts&widget=true" style="border:1px solid lightgrey;"></iframe>
