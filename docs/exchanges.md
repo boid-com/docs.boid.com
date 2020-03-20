@@ -9,6 +9,8 @@ sidebar_label: Exchanges
 <coingecko-coin-converter-widget  coin-id="boid" currency="usd" background-color="#ffffff" font-color="#4c4c4c" locale="en"></coingecko-coin-converter-widget>  
 
 
+> [XNATION - based on Bancor](https://xnation.io/eos?base=EOS&quote=BOID)
+
 > [Newdex](https://eos.newdex.io/)
 
 >[dexeos](https://dexeos.io/trade/?market=eos&code=boidcomtoken&symbol=BOID)
