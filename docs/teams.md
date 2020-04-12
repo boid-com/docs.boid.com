@@ -36,32 +36,20 @@ Physical Rewards can be offered such as exclusive team swag, computer hardware, 
 1. Boid account for team leader
 2. Social media links
 3. Team telegram link
-4. Have at least 1M staked
+4. Have at least 1M staked or delegated
 5. Announce the team + start of season on social media.
-6. List of each promotion they want ran each month - (If this is an EOS based asset they should be prepared to transfer this to the promo account when prompted so rewards can be automatically distributed.) Must include the following details:
+6. List of each promotion they want ran each month.  
+If this is an EOS based asset they should be prepared to transfer this to the **boidcompromo** account before the start of the season, so rewards can be automatically distributed. The minimum is 20 EOS worth of rewards - that includes physical rewards.  
+Must include the following details:
 - Start/End date for each promo
 - Promo Reward Total
 - Reward Distribution: Proportional/Even
 - Leaderboard Metric: Cumulative/Average
 - Tier Eligibility: 0-5
 
-### Teams currently active on Boid Project.
-- pEOS
-- Secure Blockchains
-- Trybe
-- EOS Nation
-- eosDAC
-- Telos
-- EOS Detroit
-- CSX
-- edna
-- Vigor
-- Everything EOS
-- Procryptix
-- pixEOS
-- EOSNewYork
-- Karma
-- EffectAI
-- MeetOne
-- EOSphere
-- BeyondBitcoin
+### Season 4 will start on 27th of April 2020
+
+- Team leaders please go through the onboarding checklist!
+- This time each Team Leader if his/her team is in the top 50% of all Boid teams can earn up to **800k BOID** tokens for the season.
+- Any team from last season not participating will be deleted
+- Created teams can be from any chain or not even crypto as Boid users can be rewarded with physical items
