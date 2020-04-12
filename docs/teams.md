@@ -47,7 +47,8 @@ Must include the following details:
 - Leaderboard Metric: Cumulative/Average
 - Tier Eligibility: 0-5
 
-### Season 4 will start on 27th of April 2020
+### Season 4
+#### Start on 27th of April 2020 and finish on 27th of June 2020 
 
 - Team leaders please go through the onboarding checklist!
 - This time each Team Leader if his/her team is in the top 50% of all Boid teams can earn up to **800k BOID** tokens for the season.
