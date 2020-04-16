@@ -51,6 +51,13 @@ Must include the following details:
 #### Start on 27th of April 2020 and finish on 27th of June 2020 
 
 - Team leaders please go through the onboarding checklist!
-- This time each Team Leader if his/her team is in the top 50% of all Boid teams can earn up to **800k BOID** tokens for the season.
+- This time each Team Leader if his/her team is in the top 50% of all Boid teams can earn up to **800k BOID** tokens for the season, but if the team leader doesn't want to run the team every day then one experienced community member will be running it for him and the bonus will be lowered to **400k BOID** tokens
 - Any team from last season not participating will be deleted
 - Created teams can be from any chain or not even crypto as Boid users can be rewarded with physical items
+
+##### Top 5 teams will get a BOID token **bonus**:
+- 1st place - 3 MLN  
+- 2nd place - 2,5 MLN  
+- 3rd place - 2 MLN  
+- 4th place - 1,5 MLN  
+- 5th place - 1 MLN  
