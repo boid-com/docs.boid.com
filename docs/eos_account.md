@@ -22,5 +22,4 @@ If you don't have an account already connected to app.boid.com eventually you sh
 ## Create Your EOS account from here:
 <iframe width="100%" height="400" src="https://eosnameservice.io/?ref=boidaccounts&widget=true" style="border:1px solid lightgrey;"></iframe>
 
-#### Use BTC, ETH or BCH to create an EOS account
-[Zeos Create EOS Account](https://zeos.co/en/home)
+#### Use BTC, ETH or BCH to create an EOS account [here:](https://zeos.co/en/home)
