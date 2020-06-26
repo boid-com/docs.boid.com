@@ -40,9 +40,9 @@ const siteConfig = {
   headerLinks: [    
     {doc: 'introduction', label: 'Docs'},
     {doc: 'faq', label: 'FAQ'},
-    {href: "https://community.boid.com", label: 'Community'},
-    {href: "https://community.boid.com/news", label: 'News'},
-    {href: "https://stats.boid.com", label: 'Stats'}
+    {href: "https://community.boid.com", label: 'Community', external: true},
+    {href: "https://community.boid.com/news", label: 'News', external: true},
+    {href: "https://stats.boid.com", label: 'Stats', external: true}
   //  {blog: false, label: 'Blog'},
   ],
 
@@ -116,6 +116,7 @@ const siteConfig = {
     'https://buttons.github.io/buttons.js',
     'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
     '/js/code-block-buttons.js',
+    '/js/urlexternal.js',
   ],
   stylesheets: ['/css/code-block-buttons.css']
 
