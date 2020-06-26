@@ -73,7 +73,11 @@ const siteConfig = {
     ]
   },
   */
-
+ algolia: {
+  apiKey: '10aa02fb5f8dc0378c6a55ba9b5f02b9',
+  indexName: 'boid',
+  algoliaOptions: {}
+},
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} boid.com`,
 
