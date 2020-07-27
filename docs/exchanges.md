@@ -13,12 +13,14 @@ sidebar_label: Exchanges
 
 > [Newdex](https://eos.newdex.io/)
 
->[dexeos](https://dexeos.io/trade/?market=eos&code=boidcomtoken&symbol=BOID)
+> [dexeos](https://dexeos.io/trade/?market=eos&code=boidcomtoken&symbol=BOID)
 
->[Alcor Exchange](https://alcor.exchange/markets/BOID-boidcomtoken)
+> [Alcor Exchange](https://alcor.exchange/markets/BOID-boidcomtoken)
 
->[Chintai - borrow and lease](https://exchange.chintai.io/)
+> [Chintai - borrow and lease](https://exchange.chintai.io/)
 
->https://www.coingecko.com/en/coins/boid/eos
+> [DefiBOX Swap](https://dapp.defibox.io/swap)
 
->https://neironix.io/cryptocurrency/boid/exchanges
+> [Coingecko Boid info](https://www.coingecko.com/en/coins/boid/eos)
+
+> [Neironix](https://neironix.io/cryptocurrency/boid/exchanges)
