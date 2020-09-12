@@ -8,6 +8,7 @@ sidebar_label: Exchanges
 <script src="https://widgets.coingecko.com/coingecko-coin-converter-widget.js"></script>
 <coingecko-coin-converter-widget  coin-id="boid" currency="usd" background-color="#ffffff" font-color="#4c4c4c" locale="en"></coingecko-coin-converter-widget>  
 
+> [DefiBOX Swap](https://defibox.io/poolMarketDetails/8)
 
 > [XNATION - based on Bancor](https://xnation.io/eos?base=EOS&quote=BOID)
 
@@ -18,8 +19,6 @@ sidebar_label: Exchanges
 > [Alcor Exchange](https://alcor.exchange/markets/BOID-boidcomtoken)
 
 > [Chintai - borrow and lease](https://exchange.chintai.io/)
-
-> [DefiBOX Swap](https://dapp.defibox.io/swap)
 
 > [Coingecko Boid info](https://www.coingecko.com/en/coins/boid/eos)
 
